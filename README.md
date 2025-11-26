@@ -107,16 +107,5 @@ Most Popular Day: Saturday
 Most Common Start Hour: 17
 ...
 
-✨ Future Improvements
-
-    Add data visualization (matplotlib or seaborn)
-
-    Build a web version using Flask
-
-    Handle data from more cities
-
-    Export results to CSV or Excel
-
-👩‍💻 Author
 
 May Gamal Osman
